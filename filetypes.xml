@@ -25,7 +25,6 @@
       <mapping ext="train" type="PLAIN_TEXT" />
       <mapping ext="drtbackup" type="PLAIN_TEXT" />
       <mapping ext="drtold" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="xsb" type="PLAIN_TEXT" />
       <mapping pattern="pruebaOneOf" type="JSON Schema" />
     </extensionMap>
