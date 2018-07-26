@@ -22,6 +22,7 @@
       <mapping pattern="DockerfileDebug" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping pattern="phraseDefinitions" type="PLAIN_TEXT" />
+      <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping ext="train" type="PLAIN_TEXT" />
       <mapping ext="drtbackup" type="PLAIN_TEXT" />
       <mapping ext="drtold" type="PLAIN_TEXT" />
