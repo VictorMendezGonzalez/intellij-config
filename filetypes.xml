@@ -13,6 +13,7 @@
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping pattern="simple-percentage.json.template" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="xsb" type="PLAIN_TEXT" />
       <mapping ext="train" type="PLAIN_TEXT" />
       <mapping ext="drtbackup" type="PLAIN_TEXT" />
