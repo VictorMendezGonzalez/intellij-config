@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="template" type="JSON" />
-      <removed_mapping ext="md" type="Markdown" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="somosunospanetes" type="PLAIN_TEXT" />
       <mapping pattern="vectorwise" type="PLAIN_TEXT" />
@@ -19,7 +18,6 @@
       <mapping ext="drtold" type="PLAIN_TEXT" />
       <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="xsb" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
