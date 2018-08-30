@@ -2,24 +2,25 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="template" type="JSON" />
-      <mapping pattern="textBuilderResponse" type="PLAIN_TEXT" />
-      <mapping pattern="somosunospanetes" type="PLAIN_TEXT" />
-      <mapping pattern="phraseDefinitions" type="PLAIN_TEXT" />
-      <mapping pattern="category-summary" type="PLAIN_TEXT" />
-      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
-      <mapping pattern="DockerfileDebug" type="PLAIN_TEXT" />
-      <mapping pattern="vectorwise" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" type="Markdown" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping pattern="json" type="PLAIN_TEXT" />
+      <mapping pattern="somosunospanetes" type="PLAIN_TEXT" />
+      <mapping pattern="vectorwise" type="PLAIN_TEXT" />
       <mapping pattern="simple-percentage.json.template" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="xsb" type="PLAIN_TEXT" />
+      <mapping pattern="textBuilderResponse" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="category-summary" type="PLAIN_TEXT" />
+      <mapping pattern="DockerfileDebug" type="PLAIN_TEXT" />
+      <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
+      <mapping pattern="phraseDefinitions" type="PLAIN_TEXT" />
+      <mapping pattern="json" type="PLAIN_TEXT" />
       <mapping ext="train" type="PLAIN_TEXT" />
       <mapping ext="drtbackup" type="PLAIN_TEXT" />
-      <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="drtold" type="PLAIN_TEXT" />
+      <mapping ext="cli" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="xsb" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
