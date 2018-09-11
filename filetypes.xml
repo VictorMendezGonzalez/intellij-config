@@ -5,6 +5,7 @@
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="somosunospanetes" type="PLAIN_TEXT" />
       <mapping pattern="vectorwise" type="PLAIN_TEXT" />
+      <mapping pattern="dsgasd" type="PLAIN_TEXT" />
       <mapping pattern="simple-percentage.json.template" type="PLAIN_TEXT" />
       <mapping pattern="textBuilderResponse" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
