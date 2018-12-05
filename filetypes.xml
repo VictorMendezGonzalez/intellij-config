@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="PROPERTIES" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
